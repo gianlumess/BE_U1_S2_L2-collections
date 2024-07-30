@@ -6,7 +6,7 @@ import java.util.List;
 
 public class Main {
     public static void main(String[] args) {
-        int N = 10;
+        int N = 6;
         //genero lista di N int casuali da 0 a 100 e li ordina
         List<Integer> listaCasuale = generaListaRandom(N);
         System.out.println(listaCasuale);
